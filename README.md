@@ -7,6 +7,8 @@ This is a direct adaptation from the example presented in the demos of jquery.to
 
 I modified the code to permit to have multiple galleries on the same page and to make it as easy as possible.
 
+You can see a demo here: http://fathomless-waters-9473.herokuapp.com/
+
 How to use it?
 --------------
 
