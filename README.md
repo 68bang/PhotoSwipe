@@ -3,7 +3,7 @@ PhotoSwipe
 
 A mobile photos gallery/browser.
 
-This is a direct adaptation from the example presented in the demos of jquery.touchSwipe: [Imagegalleryexample.html]{https://github.com/mattbryson/TouchSwipe-Jquery-Plugin/blob/master/demos/Image_gallery_example.html}
+This is a direct adaptation from the example presented in the demos of jquery.touchSwipe: [Imagegalleryexample.html](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin/blob/master/demos/Image_gallery_example.html)
 
 I modified the code to permit to have multiple galleries on the same page and to make it as easy as possible.
 
