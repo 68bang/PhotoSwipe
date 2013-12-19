@@ -3,7 +3,7 @@ PhotoSwipe
 
 A mobile photos gallery/browser.
 
-This is a direct adaptation from the example presented in the demos of jquery.touchSwipe: [TouchSwipe-Jquery-Plugin/demos/Image\_gallery\_example.html]{https://github.com/mattbryson/TouchSwipe-Jquery-Plugin/blob/master/demos/Image_gallery_example.html}
+This is a direct adaptation from the example presented in the demos of jquery.touchSwipe: [Imagegalleryexample.html]{https://github.com/mattbryson/TouchSwipe-Jquery-Plugin/blob/master/demos/Image_gallery_example.html}
 
 I modified the code to permit to have multiple galleries on the same page and to make it as easy as possible.
 
@@ -27,4 +27,7 @@ To create a new gallery, just put all your images inside those div blocks:
       </div>
     </div>
 
+Update the listener after a DOM change
+--------------------------------------
 
+Let's say, for example, that you have ajax that update the content of the dom by adding a new gallery. To have the things working you just have to refresh the listener by calling: `listen_to_swipe()`
